@@ -87,3 +87,17 @@ footer {
     text-align: center;
     padding: 20px;
 }
+img{
+    border-radius: 12px;
+    margin: 10px;
+}
+
+.galeria{
+    text-align: center;
+    padding: 40px;
+    background: #eeeeee;
+}
+
+.galeria h2{
+    margin-bottom: 20px;
+}
