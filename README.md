@@ -44,13 +44,13 @@ A proposta busca divulgar:
 
 ## 👨‍💻 Equipe
 
-- Nome 1
-- Nome 2
-- Nome 3
-- Nome 4
-- Nome 5
+- Nome 1 Jkason Ferreira Da Silva Junior
+- Nome 2 Isaac Da Silva Lima 
+- Nome 3 João Francisco Dos Santos Alves
+- Nome 4 Luis Gustavo Ferreira Oliveira
+- Nome 5 Leandro Timoteo De Oliveira Da Silva 
 
-Orientador(a): Nome do Orientador
+Orientador(a): Nome do Orientador Tariara Leal Aguiar Rabelo
 
 ---
 
